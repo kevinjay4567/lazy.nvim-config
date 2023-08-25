@@ -25,6 +25,7 @@
   "nvim-ts-autotag": { "branch": "main", "commit": "6be1192965df35f94b8ea6d323354f7dc7a557e4" },
   "nvim-web-devicons": { "branch": "master", "commit": "cfc8824cc1db316a276b36517f093baccb8e799a" },
   "plenary.nvim": { "branch": "master", "commit": "0dbe561ae023f02c2fb772b879e905055b939ce3" },
+  "rest.nvim": { "branch": "main", "commit": "22673c848768ff25517154a5aebfebc0c77d0b4f" },
   "telescope.nvim": { "branch": "master", "commit": "776b509f80dd49d8205b9b0d94485568236d1192" },
   "typescript.nvim": { "branch": "main", "commit": "4de85ef699d7e6010528dcfbddc2ed4c2c421467" }
 }
